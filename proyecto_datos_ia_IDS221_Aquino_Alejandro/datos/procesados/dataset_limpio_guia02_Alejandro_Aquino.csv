@@ -1,7 +1,0 @@
-id_venta,fecha,id_producto,cantidad,precio_unitario,canal_venta,total_ventas,nombre_producto,categoria,costo_unitario,utilidad_estimada,tipo_promocion,porcentaje,anio,mes,dia,dia_semana,es_fin_semana,tiene_promocion,descuento_estimado,venta_neta_estimada,margen_unitario,nivel_venta,nivel_utilidad,total_ventas_norm,utilidad_estimada_norm
-1,2026-01-05,101,2,10.99,Web,21.98,Sensor Inteligente,Iot,10.99,0.0,Descuento,10.0,2026,1,5,Monday,False,True,2.198,19.782,0.0,Baja,Baja,0.1830608793686584,0.0
-2,2026-01-06,102,1,8.99,App,8.99,Licencia De Software,Software,8.99,0.0,Sin Promoción,0.0,2026,1,6,Tuesday,False,False,0.0,8.99,0.0,Baja,Baja,0.0,0.0
-3,2026-01-07,101,3,12.99,Tienda,38.97,Sensor Inteligente,Iot,10.99,6.0,Descuento,10.0,2026,1,7,Wednesday,False,True,3.8970000000000002,35.073,2.0,Media,Baja,0.42249154453213067,0.14992503748125938
-4,2026-01-08,103,5,15.99,Tienda,79.95,Dispositivo Movil,Hardware,15.99,0.0,Sin Promoción,0.0,2026,1,8,Thursday,False,False,0.0,79.95,0.0,Media,Baja,1.0,0.0
-5,2026-01-09,104,2,30.0,Tienda,60.0,Camara De Seguridad,Seguridad,9.99,40.019999999999996,Sin Promoción,0.0,2026,1,9,Friday,False,False,0.0,60.0,20.009999999999998,Media,Alta,0.7188556933483652,1.0
-6,2026-01-10,104,4,11.99,Web,47.96,Camara De Seguridad,Seguridad,9.99,8.0,Campaña,20.0,2026,1,10,Saturday,True,True,9.592,38.368,2.0,Media,Baja,0.5491826381059751,0.1999000499750125
